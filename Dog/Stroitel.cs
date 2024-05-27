@@ -9,11 +9,8 @@ namespace Stroitel
     public class Dog
     {
         private string _name;
-
         private string _breed;
-
         private int _age;
-
         private List<string> _toys;
         // Класс-строитель
         public class DogBuilder
